@@ -7,5 +7,5 @@ For this purpose, the AI chat was trained on the Catholic Bible to allow users t
 
 ### Image of the prototype
 
-![Prototype](IsaIA.png)
+![Prototype](IsaIA prototype.png)
 
